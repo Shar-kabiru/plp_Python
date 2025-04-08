@@ -1,0 +1,5 @@
+WEEK 4 ASSIGNMENT
+FILE HANDLING ASSIGNMENT
+Common functions are:
+open, read and write
+
